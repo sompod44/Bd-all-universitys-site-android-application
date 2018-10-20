@@ -1,0 +1,265 @@
+<resources>
+    <string name="app_name">BD Universitys WebSite</string>
+
+    <string-array name="public_universitys">
+
+        <item>University of Dhaka (DU)</item>
+        <item>University of Rajshahi (RU)</item>
+        <item>Bangladesh Agricultural University	(BAU)</item>
+        <item>Bangladesh University of Engineering and Technology (BUET)</item>
+        <item>University of Chittagong (CU)</item>
+        <item>Jahangirnagar University (JU)</item>
+        <item>Islamic University, Bangladesh	(IU)</item>
+        <item>Shahjalal University of Science and Technology	(SUST)</item>
+        <item>Khulna University	(KU)</item>
+        <item>Bangabandhu Sheikh Mujib Medical University	(BSMMU)</item>
+        <item>Bangabandhu Sheikh Mujibur Rahman Agricultural University	(BSMRAU)</item>
+        <item>Hajee Mohammad Danesh Science and Technology University	(HSTU)</item>
+        <item>Mawlana Bhashani Science and Technology University	(MBSTU)</item>
+        <item>Patuakhali Science and Technology University	(PSTU)</item>
+        <item>Sher-e-Bangla Agricultural University	(SAU)</item>
+        <item>Dhaka University of Engineering and Technology	(DUET)</item>
+        <item>Rajshahi University of Engineering and Technology	(RUET)</item>
+        <item>Chittagong University of Engineering and Technology	(CUET)</item>
+        <item>Khulna University of Engineering and Technology	(KUET)</item>
+        <item>Jagannath University	(JnU)</item>
+        <item>Jatiya Kabi Kazi Nazrul Islam University (JKKNIU)</item>
+        <item>Chittagong Veterinary and Animal Sciences University	(CVASU)</item>
+        <item>Sylhet Agricultural University	(SAU)</item>
+        <item>Comilla University	(CoU)</item>
+        <item>Noakhali Science and Technology University	(NSTU)</item>
+        <item>Jessore University of Science and Technology	(JUST)</item>
+        <item>Pabna University of Science and Technology	(PUST)</item>
+        <item>Bangladesh University of Professionals	(BUP)</item>
+        <item>Begum Rokeya University	(BRU)</item>
+        <item>Bangladesh University of Textiles (BUTEX)</item>
+        <item>University of Barisal (BU)</item>
+        <item>Bangabandhu Sheikh Mujibur Rahman Science and Technology University	(BSMRSTU)</item>
+        <item>Bangabandhu Sheikh Mujibur Rahman Maritime University(BSMRMU)</item>
+        <item>Rangamati Science and Technology University	(RMSTU)</item>
+        <item>Rabindra University, Bangladesh	(RUB)</item>
+        <item>Bangabandhu Sheikh Mujibur Rahman Digital University (BDU)</item>
+
+    </string-array>
+
+    <string-array name="publicUiversity_sites">
+        <item>http://www.du.ac.bd/</item>
+        <item>http://www.ru.ac.bd/</item>
+        <item>https://www.bau.edu.bd/</item>
+        <item>http://www.buet.ac.bd/</item>
+        <item>http://www.cu.ac.bd/</item>
+        <item>http://www.juniv.edu/</item>
+        <item>http://www.iu.ac.bd/</item>
+        <item>https://www.sust.edu/</item>
+        <item>http://www.ku.ac.bd/</item>
+        <item>http://www.bsmmu.edu.bd/</item>
+        <item>http://www.bsmrau.edu.bd</item>
+        <item>https://www.hstu.ac.bd/</item>
+        <item>http://www.mbstu.ac.bd/</item>
+        <item>http://www.pstu.ac.bd/</item>
+        <item>http://www.sau.edu.bd/</item>
+        <item>http://www.duet.ac.bd/</item>
+        <item>http://www.ruet.ac.bd/</item>
+        <item>https://www.cuet.ac.bd/</item>
+        <item>http://www.kuet.ac.bd/</item>
+        <item>https://www.jnu.ac.bd/</item>
+        <item>http://www.jkkniu.edu.bd/</item>
+        <item>http://www.cvasu.ac.bd/</item>
+        <item>http://www.sau.ac.bd/</item>
+        <item>http://www.cou.ac.bd/</item>
+        <item>http://www.nstu.edu.bd/</item>
+        <item>http://www.just.edu.bd/</item>
+        <item>https://www.pust.ac.bd/</item>
+        <item>http://www.bup.edu.bd/</item>
+        <item>https://www.brur.ac.bd/</item>
+        <item>https://www.butex.edu.bd/</item>
+        <item>http://www.bu.ac.bd/</item>
+        <item>https://www.bsmrstu.edu.bd/</item>
+        <item>http://www.bsmrmu.edu.bd/</item>
+        <item>http://www.rmstu.edu.bd/</item>
+        <item>https://www.rub.ac.bd/</item>
+        <item>http://www.bdu.ac.bd/</item>
+    </string-array>
+
+
+    <string-array name="Private_University">
+
+        <item>Dhaka International University (DIU)</item>
+        <item>Ahsanullah University of Science and Technology	(AUST)</item>
+        <item>BRAC University	(BRAC)</item>
+        <item>East West University (EWU)</item>
+        <item>North South University (NSU)</item>
+        <item>American International University-Bangladesh (AIUB)</item>
+        <item>Independent University Bangladesh (IUB)</item>
+        <item>Bangladesh University of Business and Technology (BUBT)</item>
+        <item>Gono Bishwabidyalay (GB)</item>
+        <item>Hamdard University Bangladesh (HUB)</item>
+        <item>International Islamic University Chittagong (IIUC)</item>
+        <item>BGC Trust University Bangladesh (BGCTUB)</item>
+        <item>Chittagong Independent University (CIU)</item>
+        <item>University of Science and Technology Chittagong (USTC)</item>
+        <item>East Delta University (EDU)</item>
+        <item>Bangladesh Army University of Science and Technology (BAUST)</item>
+        <item>Bangladesh Army International University of Science and Technology (BAIUST)</item>
+        <item>Britannia University (BU)</item>
+        <item>CCN University of Science and Technology (CCNUST)</item>
+        <item>Feni University (FU)</item>
+        <item>Bangladesh Army University of Engineering and Technology (BAUET)</item>
+        <item>Premier University (PU)</item>
+        <item>Exim Bank Agricultural University Bangladesh (EBAUB)</item>
+        <item>Southern University Bangladesh (SUB)</item>
+        <item>Port City International University (PCIU)</item>
+        <item>Coxs Bazar International University (CBIU)</item>
+        <item>Notre Dame University Bangladesh (NDUB)</item>
+        <item>Asian University of Bangladesh (AUB)</item>
+        <item>Asa University Bangladesh (ASAUB)</item>
+        <item>Atish Dipankar University of Science and Technology (ADUST)</item>
+        <item>Bangladesh Islami University (BIU)</item>
+        <item>Bangladesh University (BU)</item>
+        <item>Central Womens University (CWU)</item>
+        <item>City University, Bangladesh (CUB)</item>
+        <item>Daffodil International University (DIU)</item>
+        <item>Eastern University (EU)</item>
+        <item>Green University of Bangladesh (GUB)</item>
+        <item>IBAIS University (IU)</item>
+        <item>Sonargaon University (SU)</item>
+        <item>International University of Business Agriculture and Technology (IUBAT)</item>
+        <item>Manarat International University (MIU)</item>
+        <item>Millennium University (MU)</item>
+        <item>Northern University (NUB)</item>
+        <item>North Western University (NWU)</item>
+        <item>The University of Comilla (UNIC)</item>
+        <item>Peoples University of Bangladesh (PUB)</item>
+        <item>Presidency University (PU)</item>
+        <item>Pundra University of Science and Technology (PUST)</item>
+        <item>Prime University (PU)</item>
+        <item>European University of Bangladesh (EUB)</item>
+        <item>Primeasia University (PAU)</item>
+        <item>Queens University (QU)</item>
+        <item>Rajshahi Science and Technology University (RSTU)</item>
+        <item>Royal University of Dhaka (RUD)</item>
+        <item>Shanto-Mariam University of Creative Technology	(SMUCT)</item>
+        <item>Southeast University (SEU)</item>
+        <item>Stamford University Bangladesh	(SU)</item>
+        <item>State University of Bangladesh	(SUB)</item>
+        <item>United International University	(UIU)</item>
+        <item>University of Asia Pacific (UAP)</item>
+        <item>University of Development Alternative	(UODA)</item>
+        <item>University of Information Technology and Sciences (UITS)</item>
+        <item>University of Liberal Arts Bangladesh (ULAB)</item>
+        <item>Fareast International University (FIU)</item>
+        <item>University of South Asia (USA)</item>
+        <item>Uttara University (UU)</item>
+        <item>Victoria University of Bangladesh (VUB)</item>
+        <item>Varendra University (VU)</item>
+        <item>World University of Bangladesh	(WUB)</item>
+        <item>Leading University (LU)</item>
+        <item>Metropolitan University	(MU)</item>
+        <item>North East University Bangladesh (NEUB)</item>
+        <item>Sylhet International University	(SIU)</item>
+        <item>Khwaja Yunus Ali University (KYAU)</item>
+        <item>Global University Bangladesh (GUB)</item>
+        <item>University of Creative Technology Chittagong (UCTC)</item>
+        <item>Z H Sikder University of Science and Technology (ZHSUST)</item>
+        <item>Central University of Science and Technology (CUST)</item>
+        <item>Canadian University of Bangladesh (CUST)</item>
+        <item>First Capital University of Bangladesh	(FCUB)</item>
+        <item>Ishaka International University	(IIUB)</item>
+        <item>Northern University of Business and Technology (NUBT)</item>
+        <item>North Bengal International University (NBIU)</item>
+        <item>Ranada Prasad Shaha University	(RPSU)</item>
+        <item>Bangladesh University of Health Sciences (BUHS)</item>
+        <item>BGMEA University of Fashion and Technology (BUFT)</item>
+
+    </string-array>
+
+    <string-array name="PrivatUniversity_Sites">
+
+        <item>http://www.diu.ac</item>
+        <item>http://www.aust.edu</item>
+        <item>https://www.bracu.ac.bd</item>
+        <item>http://www.ewubd.edu</item>
+        <item>http://www.northsouth.edu</item>
+        <item>https://www.aiub.edu</item>
+        <item>http://www.iub.edu.bd</item>
+        <item>https://www.bubt.edu.bd</item>
+        <item>http://www.gonouniversity.edu.bd</item>
+        <item>http://www.hamdarduniversity.edu.bd</item>
+        <item>https://www.iiuc.ac.bd</item>
+        <item>http://www.bgctub-edu.net</item>
+        <item>http://www.ciu.edu.bd</item>
+        <item>http://www.ustc.ac.bd</item>
+        <item>https://www.eastdelta.edu.bd</item>
+        <item>http://www.baust.edu.bd</item>
+        <item>http://www.baiust.edu.bd</item>
+        <item>http://www.britannia.ac</item>
+        <item>http://www.ccnust.edu.bd</item>
+        <item>http://www.feniuniversity.edu.bd</item>
+        <item>http://www.bauet.ac.bd</item>
+        <item>http://www.puc.ac.bd</item>
+        <item>http://www.ebaub.edu.bd</item>
+        <item>http://www.southern.edu.bd</item>
+        <item>http://www.portcity.edu.bd</item>
+        <item>http://www.cbiu.ac.bd</item>
+        <item>http://www.ndub.edu.bd</item>
+        <item>http://www.aub.edu.bd</item>
+        <item>http://www.asaub.edu.bd</item>
+        <item>http://www.adust.edu.bd</item>
+        <item>http://www.biu.ac.bd</item>
+        <item>http://www.bu.edu.bd</item>
+        <item>http://www.cwu.edu.bd</item>
+        <item>http://www.cityuniversity.edu.bd/</item>
+        <item>http://www.daffodilvarsity.edu.bd</item>
+        <item>http://www.easternuni.edu.bd</item>
+        <item>http://www.green.edu.bd</item>
+        <item>http://www.iub.edu.bd</item>
+        <item>http://www.su.edu.bd</item>
+        <item>https://www.iubat.edu</item>
+        <item>http://www.manarat.ac.bd</item>
+        <item>http://www.mu.ac.mw</item>
+        <item>https://www.nub.ac.bd</item>
+        <item>http://www.nwu.edu.bd</item>
+        <item>https://www.unicedu.ac.bd</item>
+        <item>http://www.pub.ac.bd</item>
+        <item>http://www.presidency.edu.bd</item>
+        <item>http://www.pundrouniversity.edu.bd</item>
+        <item>http://www.pualumni.org/</item>
+        <item>https://www.eub.edu.bd</item>
+        <item>http://www.primeasia.edu.bd</item>
+        <item>https://www.queensu.ca</item>
+        <item>http://www.rstu.edu.bd</item>
+        <item>http://www.royal.edu.bd</item>
+        <item>http://www.smuct.edu.bd</item>
+        <item>https://www.seu.edu.bd</item>
+        <item>http://www.stamforduniversity.edu.bd</item>
+        <item>http://www.sub.edu.bd</item>
+        <item>http://www.uiu.ac.bd</item>
+        <item>http://www.uap-bd.edu</item>
+        <item>http://www.uoda.edu.bd</item>
+        <item>http://www.uits.edu.bd</item>
+        <item>https://www.ulab.edu.bd</item>
+        <item>http://www.fiu.edu.bd</item>
+        <item>http://www.unisouthasia.com/</item>
+        <item>https://www.uttarauniversity.edu.bd</item>
+        <item>http://www.vub.edu.bd</item>
+        <item>http://www.vu.edu.bd</item>
+        <item>http://www.wub.edu.bd</item>
+        <item>http://www.lus.ac.bd</item>
+        <item>http://www.metrouni.edu.bd</item>
+        <item>http://www.neub.edu.bd</item>
+        <item>http://www.siu.edu.bd</item>
+        <item>http://www.kyau.edu.bd</item>
+        <item>https://www.globaluniversity.edu.bd</item>
+        <item>http://www.uctc.academia.edu</item>
+        <item>http://www.zhsust.edu.bd</item>
+        <item>http://www.cust.edu.bd/</item>
+        <item>http://www.cust.edu.bd</item>
+        <item>http://www.fcub.edu.bd</item>
+        <item>http://www.ishakha.edu.bd/</item>
+        <item>https://www.nubtkhulna.ac.bd</item>
+        <item>https://www.nbiu.edu.bd</item>
+        <item>http://www.rpsu.edu.bd</item>
+        <item>http://www.buhs.ac.bd</item>
+        <item>http://www.buft.edu.bd/www/index.php</item>
+    </string-array>
+</resources>

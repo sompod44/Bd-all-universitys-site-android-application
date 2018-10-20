@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:weightSum="3"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="20dp"
+    android:layout_marginBottom="20dp"
+    android:orientation="vertical"
+    android:baselineAligned="false">
+
+
+
+
+            <TextView
+                android:id="@+id/sampletextviewid1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Dhakunifsfsfsfsfsfsfsa"
+                android:fontFamily="monospace"
+                android:gravity="center_horizontal"
+                android:textColor="#003df5"
+                android:textSize="20sp"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:layout_marginTop="5dp"
+                />
+            <TextView
+                android:id="@+id/sampletextviewid2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Click for browsing uv site"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textSize="21sp"
+                android:textColor="#ff1d92"
+                />
+
+
+
+
+    </LinearLayout>
